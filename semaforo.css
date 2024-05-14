@@ -1,0 +1,37 @@
+
+        body {
+            background: linear-gradient(to bottom right, #000, #808080, #fff);
+            height: 100vh;
+        }
+
+        section {
+            background-color: rgb(46, 12, 200);
+            width: 180px;
+            height: 400px;
+            border-radius: 15px;
+            padding-top: 25px;
+            margin: 150px auto;
+            box-shadow: 2px 0px 25px #ddd inset;
+        }
+
+        .uno, .dos, .tres {
+            background-color: #e0e0e0;
+            width: 90px;
+            height: 90px;
+            border-radius: 50%;
+            padding-top: 20px;
+            margin: 0 auto 20px;
+            box-shadow: 10px 5px 20px;
+            /* transition: background 2s; */
+            box-shadow: 3px 5px 25px #ddd inset;
+        }
+
+        div {
+            background-color: rgb(91, 62, 12);
+            width: 30px;
+            height: 300px;
+            margin-left: 75px;
+            margin: -151px auto;
+            box-shadow: 20px 20px 100px, inset 5px 0 30px #0f0e0e;
+        }
+    
